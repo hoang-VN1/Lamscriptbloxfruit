@@ -262,68 +262,68 @@ end
 
 -- ĐÃ THAY ĐỔI: Tất cả URL đều dùng domain mới
 _call26:Tab({ Title = 'Full Moon' })
-fetchAndDisplay('Full Moon', 'https://blox-hop-api.onrender.com/boss/full_moon?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Full Moon', 'https://api-hop-youu.onrender.com/boss/full_moon?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Near Full Moon' })
-fetchAndDisplay('Near Full Moon', 'https://blox-hop-api.onrender.com/boss/full_moon?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Near Full Moon', 'https://api-hop-youu.onrender.com/boss/full_moon?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Haki Color' })
-fetchAndDisplay('Haki Color', 'https://blox-hop-api.onrender.com/boss/haki_dealer?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Haki Color', 'https://api-hop-youu.onrender.com/boss/haki_dealer?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Legend Sword' })
-fetchAndDisplay('Legend Sword', 'https://blox-hop-api.onrender.com/boss/sword_dealer?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Legend Sword', 'https://api-hop-youu.onrender.com/boss/sword_dealer?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Mirage Island' })
-fetchAndDisplay('Mirage Island', 'https://blox-hop-api.onrender.com/boss/mirage?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Mirage Island', 'https://api-hop-youu.onrender.com/boss/mirage?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Soul Reaper' })
-fetchAndDisplay('Soul Reaper', 'https://blox-hop-api.onrender.com/boss/soul_reaper?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Soul Reaper', 'https://api-hop-youu.onrender.com/boss/soul_reaper?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Cursed Captain' })
-fetchAndDisplay('Cursed Captain', 'https://blox-hop-api.onrender.com/boss/cursed_captain?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Cursed Captain', 'https://api-hop-youu.onrender.com/boss/cursed_captain?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Greybeard' })
-fetchAndDisplay('Greybeard', 'https://blox-hop-api.onrender.com/boss/darkbeard?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Greybeard', 'https://api-hop-youu.onrender.com/boss/darkbeard?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Darkbeard' })
-fetchAndDisplay('Darkbeard', 'https://blox-hop-api.onrender.com/boss/darkbeard?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Darkbeard', 'https://api-hop-youu.onrender.com/boss/darkbeard?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Dough King' })
-fetchAndDisplay('Dough King', 'https://blox-hop-api.onrender.com/boss/dough_king?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Dough King', 'https://api-hop-youu.onrender.com/boss/dough_king?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Rip Indra' })
-fetchAndDisplay('Rip Indra', 'https://blox-hop-api.onrender.com/boss/rip_indra?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Rip Indra', 'https://api-hop-youu.onrender.com/boss/rip_indra?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Kitsune Island' })
-fetchAndDisplay('Kitsune Island', 'https://blox-hop-api.onrender.com/boss/kitsune?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Kitsune Island', 'https://api-hop-youu.onrender.com/boss/kitsune?api_key=HOANG_kunBEZRBTa')
 
 -- THÊM CÁC TAB BỊ THIẾU (GIỮ NGUYÊN CẤU TRÚC)
 _call26:Tab({ Title = 'Prehistoric Island' })
-fetchAndDisplay('Prehistoric Island', 'https://blox-hop-api.onrender.com/boss/prehistoric?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Prehistoric Island', 'https://api-hop-youu.onrender.com/boss/prehistoric?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Leviathan' })
-fetchAndDisplay('Leviathan', 'https://blox-hop-api.onrender.com/boss/leviathan?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Leviathan', 'https://api-hop-youu.onrender.com/boss/leviathan?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Pirate Raid' })
-fetchAndDisplay('Pirate Raid', 'https://blox-hop-api.onrender.com/boss/pirate_raid?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Pirate Raid', 'https://api-hop-youu.onrender.com/boss/pirate_raid?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Cake Prince' })
-fetchAndDisplay('Cake Prince', 'https://blox-hop-api.onrender.com/boss/cake_prince?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Cake Prince', 'https://api-hop-youu.onrender.com/boss/cake_prince?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Cake Queen' })
-fetchAndDisplay('Cake Queen', 'https://blox-hop-api.onrender.com/boss/cake_queen?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Cake Queen', 'https://api-hop-youu.onrender.com/boss/cake_queen?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Tyrant' })
-fetchAndDisplay('Tyrant', 'https://blox-hop-api.onrender.com/boss/tyrant?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Tyrant', 'https://api-hop-youu.onrender.com/boss/tyrant?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Elite' })
-fetchAndDisplay('Elite', 'https://blox-hop-api.onrender.com/boss/elite?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Elite', 'https://api-hop-youu.onrender.com/boss/elite?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Fruit' })
-fetchAndDisplay('Fruit', 'https://blox-hop-api.onrender.com/boss/fruit?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Fruit', 'https://api-hop-youu.onrender.com/boss/fruit?api_key=HOANG_kunBEZRBTa')
 
 _call26:Tab({ Title = 'Berry' })
-fetchAndDisplay('Berry', 'https://blox-hop-api.onrender.com/boss/berry?api_key=HOANG_kunBEZRBTa')
+fetchAndDisplay('Berry', 'https://api-hop-youu.onrender.com/boss/berry?api_key=HOANG_kunBEZRBTa')
 
 -- Payload remote giữ nguyên
 local _callhttp_request275 = http_request({
